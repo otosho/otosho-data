@@ -1,5 +1,0 @@
-OTOSHO ENGINE GitHub automatic upload test
-uploaded_at=2026-08-13T13:36:10+09:00
-repository=otosho/otosho-data
-branch=main
-status=TEST ONLY
